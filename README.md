@@ -1,3 +1,3 @@
 ## Curso Git
 
-Curso Git Mastermind
+Curso Git Mastermind DESDE OTRO SITIO
